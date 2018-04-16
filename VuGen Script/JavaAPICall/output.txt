@@ -1,0 +1,16 @@
+Virtual User Script started at: 15/04/2018 10:10:31 PM
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+Actions.java(24): Notify: Transaction "API Call" started.
+performancetestgurus.com
+Sun Apr 15 22:10:31 AEST 2018
+Actions.java(29): Notify: Transaction "API Call" ended with a "Pass" status (Duration: 0.3082).
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

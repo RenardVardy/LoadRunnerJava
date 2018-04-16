@@ -1,0 +1,15 @@
+Virtual User Script started at: 4/03/2018 8:54:57 PM
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+performancetestgurus.com
+
+Sun Mar 04 20:54:57 AEDT 2018
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
